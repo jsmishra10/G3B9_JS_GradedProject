@@ -1,0 +1,11 @@
+{
+    "name": "geb9_js_gradedproject",
+    "version": "0.1.0",
+    "private": true,    
+    "scripts": {
+      "start": "json-server --watch Data.json --port 3000"
+   
+    }
+    
+    
+  }
